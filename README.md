@@ -25,8 +25,11 @@ Table of Contents:
 ## Exploring the Froment Rule of Thirds
 <img src="./assets/fromentRuleOfThirds.png" alt="Tapered rolling mandrel in FreeCAD" width="600"/>
 
-# Capabilities
+# Installation
+Install FreeCAD for your OS, clone or download this project as a ZIP if you don't use git, and open
+`reed_slip_calculator.FCStd` in FreeCAD.
 
+# Capabilities
 Using this CAD project, you can do the following:
 
 - calculate dip and centerline from cane OD, cylinder OD, slip width, edge thickness
