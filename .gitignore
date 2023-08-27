@@ -1,0 +1,10 @@
+# freecad auto backups
+**/*.FCStd1
+
+ignore/
+
+# vim swapfiles
+**/*.swp
+
+# ignore pyenv
+.python-version
