@@ -15,9 +15,6 @@ Introduction and Tutorial on Youtube:
 </a>
 <hr>
 
-Table of Contents:
-[TOC]
-
 # Example Screenshots
 ## Visualizing and calculating dip, centerline and stature from the four fundamental parameters
 <img src="./assets/fourFundamentalParams.png" alt="Tapered rolling mandrel in FreeCAD" width="600"/>
