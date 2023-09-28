@@ -37,7 +37,7 @@ Follow the official instructions at
 https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives
 
 # Capabilities
-Using this CAD project, you can do the following:
+Using this project, you can do the following:
 
 ## FreeCAD
 
