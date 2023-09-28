@@ -8,3 +8,7 @@ ignore/
 
 # ignore pyenv
 .python-version
+
+# lockfiles
+.~*
+*#

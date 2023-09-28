@@ -1,2 +1,5 @@
 *.FCStd binary
 *.FCStd1 binary
+*.ods binary
+*.xlsx binary
+*.xls binary
