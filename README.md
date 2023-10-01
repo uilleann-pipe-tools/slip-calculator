@@ -33,8 +33,8 @@ Install FreeCAD for your OS, clone or download this project as a ZIP if you don'
 https://www.freecad.org/downloads.php
 
 ## Downloading a GitHub Repository as a ZIP archive
-Follow the official instructions at
-https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives#downloading-source-code-archives
+If you don't use `git`, follow the official instructions to <a href=https://docs.github.com/en/repositories/working-with-files/using-files/downloading-source-code-archives alt="download this project as a ZIP archive" target="_blank">download this project as a ZIP archive</a>
+
 
 # Capabilities
 Using this project, you can do the following:
